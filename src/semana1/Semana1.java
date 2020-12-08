@@ -21,7 +21,7 @@ public class Semana1 {
         v_principal.show();
         
         System.out.println("semana1.Semana1.main()");
-        System.out.println("semana1.Semana1.cambio2");
+        
     }
     
 }
