@@ -19,6 +19,8 @@ public class Semana1 {
         
         formPrincipal v_principal = new formPrincipal();
         v_principal.show();
+        
+        System.out.println("semana1.Semana1.main()");
     }
     
 }
