@@ -43,7 +43,7 @@ public class formPrincipal extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         lblTitulo.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblTitulo.setText("Benjamin Cepeda cambio 2");
+        lblTitulo.setText("Interfaz");
 
         lblPreimerDato.setText("Ingrese un Dato:");
 
