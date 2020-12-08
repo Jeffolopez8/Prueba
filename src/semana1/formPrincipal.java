@@ -43,7 +43,7 @@ public class formPrincipal extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         lblTitulo.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblTitulo.setText("Primera aplicación Visual Cambio 3 a Dev");
+        lblTitulo.setText("Benjamin Cepeda");
 
         lblPreimerDato.setText("Ingrese un Dato:");
 
