@@ -52,7 +52,7 @@
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="99" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jLabel1" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="181" max="-2" attributes="0"/>
                           <Component id="lblTitulo" min="-2" pref="251" max="-2" attributes="0"/>
                       </Group>
                   </Group>
@@ -178,7 +178,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="editado por alexander iza "/>
+        <Property name="text" type="java.lang.String" value="editado por alexander iza cambio 2 "/>
       </Properties>
     </Component>
   </SubComponents>
